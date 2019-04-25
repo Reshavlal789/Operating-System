@@ -2,7 +2,6 @@
 //LOVELY PROFESSIONAL UNIVERSITY
 //SECTION K17TA
 
-
 /*
  Considering the arrival time and burst time requirement of the process the scheduler schedules the processes
  by interrupting the processor after every 6 units of time and does consider the completion of the process in
